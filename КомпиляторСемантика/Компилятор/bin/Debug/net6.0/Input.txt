@@ -1,0 +1,22 @@
+var x,y,m,n: ;
+var j,l: integer;
+var y: hello;
+var z: real;
+procedure MaxNumber(a,b:var ; c:integer; var max: integer; var rr: real);
+begin
+   max:=d;
+   j:=l+2;
+   j:=z;
+end;
+begin
+   m := n + 34;
+  if d>0 then
+           begin
+             writeln("Hello world");
+           end;
+   MaxNumber;
+   readln(x,y,g,gr,qw);
+   MaxNumber(x,y,g,gr,f);
+   MaxNumber(2,x+y,n;
+   
+end.

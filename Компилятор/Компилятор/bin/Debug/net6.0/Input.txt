@@ -1,0 +1,16 @@
+''
+gr
+"1fwwegewg"
+Primer; {254 qrerq}
+var
+                    ■
+   x,y,s: integer;
+53.145;■
+begin 
+  x := 66666666666666
+  y := 54256
+% ☺
+         y := 54256
+  ReadLn(x,y);
+  s := x + y;
+end.
